@@ -1,0 +1,7 @@
+C:\Users\Ganesh\Source\Repos\CSharpSnippets\SecurityCrypto\SecurityCrypto\bin\Debug\SecurityCrypto.exe.config
+C:\Users\Ganesh\Source\Repos\CSharpSnippets\SecurityCrypto\SecurityCrypto\bin\Debug\SecurityCrypto.exe
+C:\Users\Ganesh\Source\Repos\CSharpSnippets\SecurityCrypto\SecurityCrypto\bin\Debug\SecurityCrypto.pdb
+C:\Users\Ganesh\Source\Repos\CSharpSnippets\SecurityCrypto\SecurityCrypto\obj\Debug\SecurityCrypto.csprojResolveAssemblyReference.cache
+C:\Users\Ganesh\Source\Repos\CSharpSnippets\SecurityCrypto\SecurityCrypto\obj\Debug\SecurityCrypto.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Source\Repos\CSharpSnippets\SecurityCrypto\SecurityCrypto\obj\Debug\SecurityCrypto.exe
+C:\Users\Ganesh\Source\Repos\CSharpSnippets\SecurityCrypto\SecurityCrypto\obj\Debug\SecurityCrypto.pdb
